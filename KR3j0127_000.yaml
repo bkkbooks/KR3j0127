@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0127/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0127_WYG_000-1a, image: WYG0865/WYG0865-0253a.png}
+body:
+  text: 鶴林玉露雜家類三雜說之屬提要臣等謹案鶴林玉露十六卷宋羅大經撰大經字景綸廬陵人事蹟無考惟所記竹谷老人畏說一條有同年鄱陽景顔語知嘗登第又髙登忤秦檜一條有為容州法曹掾語知嘗官嶺南耳其書體例在詩話語録之間詳於議論而略於考證所引多朱子張栻真德季魏了翁楊萬里語而又兼推陸九淵極稱歐陽修蘇軾之文而又謂司馬光資治通鑑且為虛費精力何况吕祖謙文鑑既引張栻之說謂詞科不可習又引真德秀之說謂詞科當習大抵本文章之士而兼慕道學之名者故每持兩端不能歸一然要其大旨固不謬於聖賢也乾隆四十二年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2f04504cad645235206e16b9010b23fed6ffe1e30ab3372a2056c2949b9e7813
+metadata:
+  title: 鶴林玉露
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:24:16.340759'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0127/KR3j0127_000.txt
+hash: sha256:92034013f7f190702efd6c97db4927350c434be9a5e36afa8f679a954d8697ab
